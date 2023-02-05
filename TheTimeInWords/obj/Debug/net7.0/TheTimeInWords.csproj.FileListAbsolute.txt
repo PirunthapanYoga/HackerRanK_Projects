@@ -1,0 +1,15 @@
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.csproj.AssemblyReference.cache
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.AssemblyInfoInputs.cache
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.AssemblyInfo.cs
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.csproj.CoreCompileInputs.cache
+C:\Hackrank_Problem solving\TheTimeInWords\bin\Debug\net7.0\TheTimeInWords.exe
+C:\Hackrank_Problem solving\TheTimeInWords\bin\Debug\net7.0\TheTimeInWords.deps.json
+C:\Hackrank_Problem solving\TheTimeInWords\bin\Debug\net7.0\TheTimeInWords.runtimeconfig.json
+C:\Hackrank_Problem solving\TheTimeInWords\bin\Debug\net7.0\TheTimeInWords.dll
+C:\Hackrank_Problem solving\TheTimeInWords\bin\Debug\net7.0\TheTimeInWords.pdb
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.dll
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\refint\TheTimeInWords.dll
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.pdb
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\TheTimeInWords.genruntimeconfig.cache
+C:\Hackrank_Problem solving\TheTimeInWords\obj\Debug\net7.0\ref\TheTimeInWords.dll
