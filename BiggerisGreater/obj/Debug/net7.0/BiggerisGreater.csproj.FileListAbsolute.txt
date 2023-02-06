@@ -1,0 +1,15 @@
+C:\Hackrank_Problem_solving\BiggerisGreater\bin\Debug\net7.0\BiggerisGreater.exe
+C:\Hackrank_Problem_solving\BiggerisGreater\bin\Debug\net7.0\BiggerisGreater.deps.json
+C:\Hackrank_Problem_solving\BiggerisGreater\bin\Debug\net7.0\BiggerisGreater.runtimeconfig.json
+C:\Hackrank_Problem_solving\BiggerisGreater\bin\Debug\net7.0\BiggerisGreater.dll
+C:\Hackrank_Problem_solving\BiggerisGreater\bin\Debug\net7.0\BiggerisGreater.pdb
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.csproj.AssemblyReference.cache
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.AssemblyInfoInputs.cache
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.AssemblyInfo.cs
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.csproj.CoreCompileInputs.cache
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.dll
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\refint\BiggerisGreater.dll
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.pdb
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\BiggerisGreater.genruntimeconfig.cache
+C:\Hackrank_Problem_solving\BiggerisGreater\obj\Debug\net7.0\ref\BiggerisGreater.dll

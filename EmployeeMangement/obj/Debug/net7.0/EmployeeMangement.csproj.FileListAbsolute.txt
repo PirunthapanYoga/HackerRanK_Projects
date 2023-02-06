@@ -1,0 +1,15 @@
+C:\Hackrank_Problem_solving\EmployeeMangement\bin\Debug\net7.0\EmployeeMangement.exe
+C:\Hackrank_Problem_solving\EmployeeMangement\bin\Debug\net7.0\EmployeeMangement.deps.json
+C:\Hackrank_Problem_solving\EmployeeMangement\bin\Debug\net7.0\EmployeeMangement.runtimeconfig.json
+C:\Hackrank_Problem_solving\EmployeeMangement\bin\Debug\net7.0\EmployeeMangement.dll
+C:\Hackrank_Problem_solving\EmployeeMangement\bin\Debug\net7.0\EmployeeMangement.pdb
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.csproj.AssemblyReference.cache
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.AssemblyInfoInputs.cache
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.AssemblyInfo.cs
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.csproj.CoreCompileInputs.cache
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.dll
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\refint\EmployeeMangement.dll
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.pdb
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\EmployeeMangement.genruntimeconfig.cache
+C:\Hackrank_Problem_solving\EmployeeMangement\obj\Debug\net7.0\ref\EmployeeMangement.dll

@@ -1,0 +1,15 @@
+C:\Hackrank_Problem_solving\CutTheStick\bin\Debug\net7.0\CutTheStick.exe
+C:\Hackrank_Problem_solving\CutTheStick\bin\Debug\net7.0\CutTheStick.deps.json
+C:\Hackrank_Problem_solving\CutTheStick\bin\Debug\net7.0\CutTheStick.runtimeconfig.json
+C:\Hackrank_Problem_solving\CutTheStick\bin\Debug\net7.0\CutTheStick.dll
+C:\Hackrank_Problem_solving\CutTheStick\bin\Debug\net7.0\CutTheStick.pdb
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.csproj.AssemblyReference.cache
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.AssemblyInfoInputs.cache
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.AssemblyInfo.cs
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.csproj.CoreCompileInputs.cache
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.dll
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\refint\CutTheStick.dll
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.pdb
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\CutTheStick.genruntimeconfig.cache
+C:\Hackrank_Problem_solving\CutTheStick\obj\Debug\net7.0\ref\CutTheStick.dll

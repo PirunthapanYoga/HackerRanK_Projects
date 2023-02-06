@@ -1,0 +1,15 @@
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\bin\Debug\net7.0\ModifiedKaprekarNumbers.exe
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\bin\Debug\net7.0\ModifiedKaprekarNumbers.deps.json
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\bin\Debug\net7.0\ModifiedKaprekarNumbers.runtimeconfig.json
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\bin\Debug\net7.0\ModifiedKaprekarNumbers.dll
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\bin\Debug\net7.0\ModifiedKaprekarNumbers.pdb
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.csproj.AssemblyReference.cache
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.AssemblyInfoInputs.cache
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.AssemblyInfo.cs
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.csproj.CoreCompileInputs.cache
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.dll
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\refint\ModifiedKaprekarNumbers.dll
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.pdb
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ModifiedKaprekarNumbers.genruntimeconfig.cache
+C:\Hackrank_Problem_solving\ModifiedKaprekarNumbers\obj\Debug\net7.0\ref\ModifiedKaprekarNumbers.dll
